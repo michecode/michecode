@@ -1,7 +1,7 @@
 🛰 Hi, I’m maddy   
-I’m interested in crypto and the web   
-I’m currently learning react and putting it all towards my website Alto. The front-end is open sourced !! Repository on my profile !!
-
+I’m interested in crypto and the web
+check out my personal site for more details
+https://madisonfries.onrender.com/
 
 <!---
 michecode/michecode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
